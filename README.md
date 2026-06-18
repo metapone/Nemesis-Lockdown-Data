@@ -264,15 +264,13 @@
 | Pistol | **Symbol**: In Combat<br>**Heavy**<br>**Weapon**: Energy<br>**Craft**: Flash + Screwdriver<br>AMMO: 3/3. Rolls of [Blank] are treated as [Creeper]. | 1 |
 | Taser | **One Use Only**<br>**Craft**: Flash + Screwdriver<br>**Cost**: 1<br>(Choose 1 Intruder in your Room. It suffers 1 Injury and Retreats.) OR (1 chosen Character in the Room you are in must discard all cards from their hand.) | 1 |
 
-## Boards, Tiles, and Sheets
-
-### 1 Two-sided board
-
-### 6 Character boards
+## Boards and Tiles
 
 ### 1 Night Stalker board
 
-### 2 Room sheets
+### 6 Character boards
+
+### 1 Two-sided Map
 
 ### 8 Special Rooms
 
@@ -318,40 +316,11 @@
 | Testing Lab | Knowledge 4:<br>Action [2]: **Take Neutralizer:**<br>If your Character has at least 4 Knowledge, take the Neutralizer Crafted Item. |
 | Vent Control Room | Action [2]: **Vent Out:**<br>Choose a Room with a Technical Corridors Entrance. The Corridors connected to the Room you choose must not contain any Destroyed Doors.<br>Close the Doors in each Corridor connected to the chosen Room. Remove a Fire marker from that Room (if there is any) and place the Venting token there to represent the active emergency Venting out.<br>If any of the Doors in Corridors connected to that Room are Opened or Destroyed before the current Player Phase ends, remove this token immediately.<br>If the token remains in the Room at the end of the current Player Phase (after all players have passed), everything in that Room dies immediately (both Characters and Intruders). Then, discard this token. |
 
-## Other Components
-
-| Item | Count |
-|------|-------|
-| Plastic card holders (Inventories) | 5 |
-| Colored plastic rings | 6 |
-| Intruder bag | 1 |
-| Scanner | 1 |
-
-## Dice
-
-### 2 D10 Noise dice
-
-| Face | Value | Frequency |
-|------|-------|-----------|
-|      |       |           |
-
-### 2 D6 Combat dice
-
-| Face | Value | Frequency |
-|------|-------|-----------|
-|      |       |           |
-
-### 2 D6 Advantage dice
-
-| Face | Value | Frequency |
-|------|-------|-----------|
-|      |       |           |
-
 ## Markers
 
 | Item | Count |
 |------|-------|
-| Status markers | 18 |
+| Status markers | 15 |
 | Ammo/Injury markers | 30 |
 | Noise markers | 30 |
 | Fire markers | 12 |
@@ -359,11 +328,84 @@
 
 ## Tokens
 
-### 4 Power tokens
+### 8 Carcass tokens
+
+### 5 Character Corpse tokens
 
 ### 6 Knowledge tokens
 
-### 8 Carcass tokens
+### 20 Underground Exploration tokens
+
+| Number of Items | Effect |
+|-----------------|--------|
+| 1 | Silence |
+| 2 | Silence |
+| 1 | Malfunction |
+| 1 | Malfunction |
+| 2 | Malfunction |
+| 2 | Malfunction |
+| 3 | Malfunction |
+| 3 | Malfunction |
+| 3 | Slime |
+| 4 | Slime |
+| 1 | Door |
+| 1 | Door |
+| 2 | Door |
+| 3 | Door |
+| 2 | Danger |
+| 3 | Danger |
+| 4 | Danger |
+| 2 | Fire |
+| 3 | Fire |
+| 4 | Fire |
+
+### 1 Time token
+
+### 1 Alert Procedure token
+
+### 1 Autodestruction token
+
+### 1 Venting token
+
+### 4 Power tokens (numbered 1-4)
+
+### 7 Contingency tokens
+
+| Effect | Count |
+|--------|-------|
+| Kill all who did not send the Signal | 2 |
+| Kill all who have 4 or less Knowledge | 2 |
+| Save all | 1 |
+| Kill all in the Isolation Room | 1 |
+| Kill all in CSS Pods | 1 |
+
+### 27 Night Stalker tokens
+
+| Type | Normal | Darkness | Count |
+|------|--------|----------|-------|
+| Blank |  |  | 1 |
+| Larva | 0 | 1 | 4 |
+| Larva | 1 | 2 | 4 |
+| Creeper | 1 | 2 | 3 |
+| Adult | 1 | 3 | 3 |
+| Adult | 2 | 3 | 3 |
+| Adult | 2 | 4 | 3 |
+| Adult | 3 | 4 | 3 |
+| Breeder | 2 | 4 | 1 |
+| Breeder | 3 | 4 | 1 |
+| Queen | 4 | 4 | 1 |
+
+### 1 First Player token
+
+### 7 CSS tokens
+
+| Effect | Count |
+|--------|-------|
+| No Launch | 3 |
+| Launch A | 1 |
+| Launch B | 1 |
+| Launch B | 1 |
+| Launch ALL | 1 |
 
 ### 10 Small Injury counters (1–8)
 
@@ -371,53 +413,58 @@
 
 ### 8 Night Stalker Egg tokens
 
-### 11 Doors
-
-### 5 Character Corpse tokens
-
-### 8 Larva tokens
-
-### 3 Creeper tokens
-
-### 12 Adult tokens
-
-### 2 Breeder tokens
-
-### 1 Queen token
-
-### 1 Blank token
-
-### 1 Time token
-
-### 1 Alert Procedure token
-
-### 1 Venting token
-
-### 1 Autodestruction token
-
-### 1 Main Gate
-
-### 1 First Player token
-
 ### 1 Rover token
 
-### 20 Underground Exploration tokens
+### 1 Elevator token
 
-| Number of Items | Effect |
-|-----------------|--------|
-|                 |        |
+### 11 Door tokens
 
-### 7 CSS tokens
+### 1 Main Gate token
 
-| Effect |
-|--------|
-|        |
+## Other Components
 
-### 7 Contingency tokens
+| Item | Count |
+|------|-------|
+| Rulebook | 1 |
+| Room Sheets | 2 |
+| Plastic card holders | 5 |
+| Colored plastic rings | 6 |
+| Cloth bag | 1 |
+| Scanner | 1 |
 
-| Effect |
-|--------|
-|        |
+## Dice
+
+### 2 D10 Noise dice
+
+| Face | Frequency |
+|------|-----------|
+| 1 | 2 |
+| 2 | 2 |
+| 3 | 2 |
+| 4 | 2 |
+| Silence | 1 |
+| Danger | 1 |
+
+### 2 D6 Combat dice
+
+| Face | Frequency |
+|------|-----------|
+| Blank | 1 |
+| Creeper | 2 |
+| Adult | 1 |
+| 1-Injury | 1 |
+| 2-Injury | 1 |
+
+### 2 D6 Advantage dice
+
+| Face | Frequency |
+|------|-----------|
+| Blank | 1 |
+| Creeper | 1 |
+| Adult | 1 |
+| 2-Injury | 1 |
+| 1-Injury (Discard) | 1 |
+| 2-Injury (Discard) | 1 |
 
 ## Advanced Modes Components
 
@@ -456,12 +503,27 @@
 
 ### 1 D12 Surface die
 
-| Face | Value | Frequency |
-|------|-------|-----------|
-|      |       |           |
+| Face | Frequency |
+|------|-----------|
+| 1 | 2 |
+| 2 | 2 |
+| 3 | 2 |
+| 4 | 2 |
+| Silence | 1 |
+| Danger | 1 |
+| Mars Surface | 2 |
 
 ### 10 Surface Exploration tokens
 
 | Number of Items | Effect |
 |-----------------|--------|
-|                 |        |
+| 2 | Silence |
+| 2 | Malfunction |
+| 3 | Malfunction |
+| 3 | Danger |
+| 4 | Danger |
+| 1 | Red Item |
+| 1 | Yellow Item |
+| 1 | Green Item |
+| 3 | Mars Surface deck |
+| 4 | Mars Surface deck |
