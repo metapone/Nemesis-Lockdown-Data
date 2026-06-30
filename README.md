@@ -22,23 +22,24 @@
 ### 6 Character Draft cards
 
 ### 4 Character Starting Item cards
-| Title | Effect | Count |
-|-------|--------|-------|
-| Nailgun | **Character**: Janitor<br>**Heavy**<br>**Weapon**: Classic<br>**AMMO: 3/3.**<br>Discard a Toolbelt to fully load AMMO in this Weapon.<br>**OR**<br>Discard 1 AMMO from this Weapon to discard a Malfunction marker from the Room you are in. | 1 |
-| Probe Arm | **Character**: Xenobiologist<br>**USES: 3/3.**<br>*This Item cannot be traded or discarded.*<br>**If you are in Combat**: Discard 1 USE and place 1 Carcass on this card. Do not place a Carcass if one is already present.<br>**OR**<br>Discard a Toolbelt or a Duct Tape to fully restore USES in this Item. | 1 |
-| Smart Gun | **Character**: Hacker<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 3/3.**<br>Rolls of [Blank] are treated as [1 Hit]. | 1 |
-| SMG | **Character**: Sentry<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you perform a Shoot Action with this Weapon, discard 1 or 2 AMMO. For each discarded AMMO, roll the Combat die. Check Injuries after each successful hit. | 1 |
+
+| Title | Effect |
+|-------|--------|
+| Nailgun | **Character**: Janitor<br>**Heavy**<br>**Weapon**: Classic<br>**AMMO: 3/3.**<br>Discard a Toolbelt to fully load AMMO in this Weapon.<br>**OR**<br>Discard 1 AMMO from this Weapon to discard a Malfunction marker from the Room you are in. |
+| Probe Arm | **Character**: Xenobiologist<br>**USES: 3/3.**<br>*This Item cannot be traded or discarded.*<br>**If you are in Combat**: Discard 1 USE and place 1 Carcass on this card. Do not place a Carcass if one is already present.<br>**OR**<br>Discard a Toolbelt or a Duct Tape to fully restore USES in this Item. |
+| Smart Gun | **Character**: Hacker<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 3/3.**<br>Rolls of [Blank] are treated as [1 Hit]. |
+| SMG | **Character**: Sentry<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you perform a Shoot Action with this Weapon, discard 1 or 2 AMMO. For each discarded AMMO, roll the Combat die. Check Injuries after each successful hit. |
 
 ### 6 Character Quest Item cards
 
-| Title | Quest | Effect | Count |
-|-------|-------|--------|-------|
-| Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Survivor<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. | 1 |
-| Battle Suit | **Cost**: 1<br>Activate this Item in the Cargo Sending System A. | **Character**: Sentry<br>**Heavy**<br>**Enviro-Suit**<br>Your Character ignores rules for Slime and Fire Damage. You can Escape the Facility without using the Rover. **In Darkness**: Use an Advantage die when Shooting and ignore all Darkness effects for you. | 1 |
-| Cheat Codes | **Cost**: 1<br>Activate this Item in the Archive. | **Character**: Hacker<br>**Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>*If you are in a Room with a Computer, choose one:*<br>Initiate the Autodestruction sequence.<br>**OR**<br>Close/Open up to 3 Doors in any Corridors on the board.<br>**OR**<br>Peek at up to 2 CSS tokens. You may swap them with each other. | 1 |
-| Overmind | Activate this Item when you pass and have Knowledge 8. | **Character**: Xenobiologist<br>**Out of Combat**<br>**Cost**: 1<br>Choose any Intruder on the board (even in a Room with another Character). Move the chosen Intruder through a chosen Corridor. Then, flip this card over to the Quest side. | 1 |
-| Pressure Washer | **Cost**: 1<br>Activate this item in the Decon Room. | **Character**: Janitor<br>**Heavy**<br>**USES: 3/3.**<br>Discard a Reagent to fully restore USES in this Item.<br>**OR**<br>Discard 1 USE from this Item to perform a Shoot Action against an Intruder. If you hit, it Retreats instead of suffering Injuries. | 1 |
-| Wail | **Cost**: 1<br>Activate this Item in the Nest. Perform a Noise roll afterwards. | **Character**: Lab Rat<br>**Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>Remove a Noise marker from each Corridor in the Section you are in.<br>**OR**<br>Place a Noise marker in each Corridor without a Noise marker in the Section you are in. | 1 |
+| Title | Quest | Effect |
+|-------|-------|--------|
+| Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Survivor<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. |
+| Battle Suit | **Cost**: 1<br>Activate this Item in the Cargo Sending System A. | **Character**: Sentry<br>**Heavy**<br>**Enviro-Suit**<br>Your Character ignores rules for Slime and Fire Damage. You can Escape the Facility without using the Rover. **In Darkness**: Use an Advantage die when Shooting and ignore all Darkness effects for you. |
+| Cheat Codes | **Cost**: 1<br>Activate this Item in the Archive. | **Character**: Hacker<br>**Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>*If you are in a Room with a Computer, choose one:*<br>Initiate the Autodestruction sequence.<br>**OR**<br>Close/Open up to 3 Doors in any Corridors on the board.<br>**OR**<br>Peek at up to 2 CSS tokens. You may swap them with each other. |
+| Overmind | Activate this Item when you pass and have Knowledge 8. | **Character**: Xenobiologist<br>**Out of Combat**<br>**Cost**: 1<br>Choose any Intruder on the board (even in a Room with another Character). Move the chosen Intruder through a chosen Corridor. Then, flip this card over to the Quest side. |
+| Pressure Washer | **Cost**: 1<br>Activate this item in the Decon Room. | **Character**: Janitor<br>**Heavy**<br>**USES: 3/3.**<br>Discard a Reagent to fully restore USES in this Item.<br>**OR**<br>Discard 1 USE from this Item to perform a Shoot Action against an Intruder. If you hit, it Retreats instead of suffering Injuries. |
+| Wail | **Cost**: 1<br>Activate this Item in the Nest. Perform a Noise roll afterwards. | **Character**: Lab Rat<br>**Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>Remove a Noise marker from each Corridor in the Section you are in.<br>**OR**<br>Place a Noise marker in each Corridor without a Noise marker in the Section you are in. |
 
 ### 27 Contamination cards
 
@@ -105,26 +106,26 @@
 
 ### 18 Objective cards (9 Personal and 9 Corporate)
 
-| Type | Min Players | Title | Requirements | Count |
-|------|-------------|-------|--------------|-------|
-| Corporate | 2+ | Greener Pastures | Player 2's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. | 1 |
-| Corporate | 2+ | The Right Moment to Strike | Player 1's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. | 1 |
-| Corporate | 2+ | Waiting for Rescue | Send the Signal AND the Alert Procedure is activated. | 1 |
-| Corporate | 3+ | Harsh Termination | Player 3's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. | 1 |
-| Corporate | 3+ | Nemesis What? | You may choose this part of the Objective only if there is at least 1 Nemesis Survivor Character in the game. No Nemesis Survivor can survive.<br>**OR**<br>Your Character is the only survivor. | 1 |
-| Corporate | 3+ | Priceless Knowledge | Send the Signal AND the Facility cannot be destroyed. | 1 |
-| Corporate | 4+ | Hostile Takeover | Player 4's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. | 1 |
-| Corporate | 5+ | Sometimes It Is Better Not to Know | No more than 1 Character with Knowledge 3 or more can survive (including yourself). | 1 |
-| Corporate | 5+ | Unduly Ambitious | Player 5's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. | 1 |
-| Personal | 2+ | Goose Who Lays the Golden Eggs | Finish the game in a CSS Pod with an **Intruder Egg** Object.<br>**OR**<br>Finish the game with an **Intruder Egg** Object and an Active Knowledge token. | 1 |
-| Personal | 2+ | Last Stand | Send the Signal AND the Nest must be destroyed.<br>**OR**<br>Send the Signal AND the Facility must be destroyed. | 1 |
-| Personal | 2+ | Learn and Run | At least 2 Intruder Weaknesses must be discovered AND your Character has Knowledge 7 or more. | 1 |
-| Personal | 2+ | Solid Proof | Activate your Knowledge token AND finish the game with an **Intruder Carcass** Object. | 1 |
-| Personal | 2+ | The Great Hunt | Send the Signal AND the Queen must be killed.<br>**OR**<br>Send the Signal AND the Facility must be destroyed. | 1 |
-| Personal | 2+ | Ultimate Knowledge | Send the Signal AND your Character has Knowledge 6 or more. | 1 |
-| Personal | 3+ | Base Plans | Send the Signal AND all Rooms in Sections S-01 and S-02 must be explored. | 1 |
-| Personal | 3+ | Treasures Are Buried Deep | Activate your Knowledge token AND all Rooms in Sections S-01 and S-03 must be explored. | 1 |
-| Personal | 4+ | Best Friends Forever | You and at least 1 other Character must survive. | 1 |
+| Type | Min Players | Title | Requirements |
+|------|-------------|-------|--------------|
+| Corporate | 2+ | Greener Pastures | Player 2's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. |
+| Corporate | 2+ | The Right Moment to Strike | Player 1's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. |
+| Corporate | 2+ | Waiting for Rescue | Send the Signal AND the Alert Procedure is activated. |
+| Corporate | 3+ | Harsh Termination | Player 3's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. |
+| Corporate | 3+ | Nemesis What? | You may choose this part of the Objective only if there is at least 1 Nemesis Survivor Character in the game. No Nemesis Survivor can survive.<br>**OR**<br>Your Character is the only survivor. |
+| Corporate | 3+ | Priceless Knowledge | Send the Signal AND the Facility cannot be destroyed. |
+| Corporate | 4+ | Hostile Takeover | Player 4's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. |
+| Corporate | 5+ | Sometimes It Is Better Not to Know | No more than 1 Character with Knowledge 3 or more can survive (including yourself). |
+| Corporate | 5+ | Unduly Ambitious | Player 5's Character cannot survive.<br>**OR**<br>Your Character is the only survivor. |
+| Personal | 2+ | Goose Who Lays the Golden Eggs | Finish the game in a CSS Pod with an **Intruder Egg** Object.<br>**OR**<br>Finish the game with an **Intruder Egg** Object and an Active Knowledge token. |
+| Personal | 2+ | Last Stand | Send the Signal AND the Nest must be destroyed.<br>**OR**<br>Send the Signal AND the Facility must be destroyed. |
+| Personal | 2+ | Learn and Run | At least 2 Intruder Weaknesses must be discovered AND your Character has Knowledge 7 or more. |
+| Personal | 2+ | Solid Proof | Activate your Knowledge token AND finish the game with an **Intruder Carcass** Object. |
+| Personal | 2+ | The Great Hunt | Send the Signal AND the Queen must be killed.<br>**OR**<br>Send the Signal AND the Facility must be destroyed. |
+| Personal | 2+ | Ultimate Knowledge | Send the Signal AND your Character has Knowledge 6 or more. |
+| Personal | 3+ | Base Plans | Send the Signal AND all Rooms in Sections S-01 and S-02 must be explored. |
+| Personal | 3+ | Treasures Are Buried Deep | Activate your Knowledge token AND all Rooms in Sections S-01 and S-03 must be explored. |
+| Personal | 4+ | Best Friends Forever | You and at least 1 other Character must survive. |
 
 ### 25 Serious Wound cards
 
@@ -165,52 +166,52 @@
 
 ### 22 Night Stalker Event cards
 
-| Title | Effect | Count |
-|-------|--------|-------|
-| Blood Trace | **Intruders**: Breeder, Queen<br>**Direction**: 2<br>In each Section: Move each Intruder that is not in Combat to a Room with a Character who has any Undressed Serious Wounds and no Action cards on hand. If there are several Rooms to choose from, move the Intruder to the Room with the lowest Room Number.<br>**Darkness**: The effect of this card also applies to Characters with Action cards. | 1 |
-| Blood Trace | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 3<br>In each Section: Move each Intruder that is not in Combat to a Room with a Character who has any Undressed Serious Wounds and no Action cards on hand. If there are several Rooms to choose from, move the Intruder to the Room with the lowest Room Number.<br>**Darkness**: The effect of this card also applies to Characters with Action cards. | 1 |
-| Blue Screen | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 3<br>Place a Malfunction marker in the explored Room with a Computer and the lowest Room Number, in a Section with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| Bulkheads Open | **Intruders**: Adult, Breeder<br>**Direction**: 1<br>Open all Doors (except Destroyed Doors).<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. | 1 |
-| Consuming Fire | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 2<br>Set the Item Counter to 0 in each Room with a Fire marker. Place a Fire marker in each Room neighboring a Room with a Fire marker. Fire does not spread through Closed Doors or Technical Corridors. | 1 |
-| Coolant Leak | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>If there is a Malfunction marker in the Cooling System Room, start the Autodestruction sequence. If not, place a Malfunction marker there. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| Damage | **Intruders**: Creeper, Adult<br>**Direction**: 3<br>Place a Malfunction marker in each Room with an Adult Intruder, a Breeder, or a Queen.<br>**Darkness**: Place a Malfunction marker in each Room with a Character. | 1 |
-| Egg Protection | **Intruders**: Breeder, Queen<br>**Direction**: 4<br>Resolve an Encounter for each Character who is in the Nest or is carrying an Intruder Egg.<br>**Darkness**: Each Character gets 1 Contamination card. | 1 |
-| Fire in the Hole | **Intruders**: Creeper, Adult<br>**Direction**: 1<br>Place a Fire marker in the Cargo Sending System Rooms A, B and C. Each Character there with no Action cards on hand suffers 1 Serious Wound. | 1 |
-| Hatching | **Intruders**: Adult, Breeder<br>**Direction**: 2<br>Discard 1 Egg from the Nest. Each Character in the Nest with no Action cards on hand is Infested by a Larva. If no Character was Infested, put a Larva token into the Intruder bag.<br>**Darkness**: Each Character outside the Nest with no Action cards on hand is Infested by a Larva. | 1 |
-| Kickstopper | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 2, 4<br>Flip the Power token in the Elevator to its inactive side. Place a Malfunction marker in all Elevator Rooms. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| Leaving the Shell | **Intruders**: Breeder, Queen<br>**Direction**: 1<br>Each Character with a Larva on their Character board gets a Contamination card and Scans it. If it is INFECTED card, they die (place a Creeper in their Room). Otherwise, place this Contamination card in your discard pile. Each other Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have at least 1 INFECTED card, put a Larva on their Character board. Discard all drawn cards. | 1 |
-| Leaving the Shell | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 4<br>Each Character with a Larva on their Character board gets a Contamination card and Scans it. If it is INFECTED card, they die (place a Creeper in their Room). Otherwise, place this Contamination card in your discard pile. Each other Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have at least 1 INFECTED card, put a Larva on their Character board. Discard all drawn cards. | 1 |
-| Lurking | **Intruders**: Creeper, Adult<br>**Direction**: 2<br>Remove from the board all Intruders which are not in a Room with a Character. Put their respective tokens into the Intruder bag.<br>**Darkness**: Each Intruder in Combat attacks. | 1 |
-| Nest | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 1<br>If the Nest is explored, place a Noise marker in each Corridor without a Noise marker connected to the Nest.<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. | 1 |
-| Noise in Corridors | **Intruders**: Adult, Breeder<br>**Direction**: 3<br>Place a Noise marker in the Technical Corridors, if there is not already one there. If there is, remove 1 Malfunction and 1 Fire marker from the pool.<br>**Darkness**: Each Character in a Room with a Technical Corridors Entrance suffers 1 Light Wound. | 1 |
-| Panic | **Intruders**: Adult, Breeder<br>**Direction**: 4<br>Each Character with no Action cards on hand discards 2 AMMO. If they do not have enough AMMO, they discard 1 of their Items.<br>**Darkness**: The effect of this card also applies to each Character with Action cards on hand. | 1 |
-| Power Surge | **Intruders**: Breeder, Queen<br>**Direction**: 3<br>Flip the Time token to its inactive side. | 1 |
-| Sanitary Network Failure | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 2<br>Place a Malfunction marker in each explored Green Room. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| Scent of Blood | **Intruders**: Creeper, Adult<br>**Direction**: 4<br>Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character who has any Undressed Serious Wounds.<br>**Darkness**: Place an Adult Intruder in each Room with a Character who has any Undressed Serious Wounds and is not in Combat. | 1 |
-| Short Circuit | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 4<br>Place a Fire marker in each explored Room with a Computer in Sections with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| That's Hot | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1, 3<br>Place a Fire marker in the Backup Power Supply and Power Generator. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
+| Title | Effect |
+|-------|--------|
+| Blood Trace | **Intruders**: Breeder, Queen<br>**Direction**: 2<br>In each Section: Move each Intruder that is not in Combat to a Room with a Character who has any Undressed Serious Wounds and no Action cards on hand. If there are several Rooms to choose from, move the Intruder to the Room with the lowest Room Number.<br>**Darkness**: The effect of this card also applies to Characters with Action cards. |
+| Blood Trace | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 3<br>In each Section: Move each Intruder that is not in Combat to a Room with a Character who has any Undressed Serious Wounds and no Action cards on hand. If there are several Rooms to choose from, move the Intruder to the Room with the lowest Room Number.<br>**Darkness**: The effect of this card also applies to Characters with Action cards. |
+| Blue Screen | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 3<br>Place a Malfunction marker in the explored Room with a Computer and the lowest Room Number, in a Section with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| Bulkheads Open | **Intruders**: Adult, Breeder<br>**Direction**: 1<br>Open all Doors (except Destroyed Doors).<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. |
+| Consuming Fire | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 2<br>Set the Item Counter to 0 in each Room with a Fire marker. Place a Fire marker in each Room neighboring a Room with a Fire marker. Fire does not spread through Closed Doors or Technical Corridors. |
+| Coolant Leak | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>If there is a Malfunction marker in the Cooling System Room, start the Autodestruction sequence. If not, place a Malfunction marker there. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| Damage | **Intruders**: Creeper, Adult<br>**Direction**: 3<br>Place a Malfunction marker in each Room with an Adult Intruder, a Breeder, or a Queen.<br>**Darkness**: Place a Malfunction marker in each Room with a Character. |
+| Egg Protection | **Intruders**: Breeder, Queen<br>**Direction**: 4<br>Resolve an Encounter for each Character who is in the Nest or is carrying an Intruder Egg.<br>**Darkness**: Each Character gets 1 Contamination card. |
+| Fire in the Hole | **Intruders**: Creeper, Adult<br>**Direction**: 1<br>Place a Fire marker in the Cargo Sending System Rooms A, B and C. Each Character there with no Action cards on hand suffers 1 Serious Wound. |
+| Hatching | **Intruders**: Adult, Breeder<br>**Direction**: 2<br>Discard 1 Egg from the Nest. Each Character in the Nest with no Action cards on hand is Infested by a Larva. If no Character was Infested, put a Larva token into the Intruder bag.<br>**Darkness**: Each Character outside the Nest with no Action cards on hand is Infested by a Larva. |
+| Kickstopper | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 2, 4<br>Flip the Power token in the Elevator to its inactive side. Place a Malfunction marker in all Elevator Rooms. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| Leaving the Shell | **Intruders**: Breeder, Queen<br>**Direction**: 1<br>Each Character with a Larva on their Character board gets a Contamination card and Scans it. If it is INFECTED card, they die (place a Creeper in their Room). Otherwise, place this Contamination card in your discard pile. Each other Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have at least 1 INFECTED card, put a Larva on their Character board. Discard all drawn cards. |
+| Leaving the Shell | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 4<br>Each Character with a Larva on their Character board gets a Contamination card and Scans it. If it is INFECTED card, they die (place a Creeper in their Room). Otherwise, place this Contamination card in your discard pile. Each other Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have at least 1 INFECTED card, put a Larva on their Character board. Discard all drawn cards. |
+| Lurking | **Intruders**: Creeper, Adult<br>**Direction**: 2<br>Remove from the board all Intruders which are not in a Room with a Character. Put their respective tokens into the Intruder bag.<br>**Darkness**: Each Intruder in Combat attacks. |
+| Nest | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 1<br>If the Nest is explored, place a Noise marker in each Corridor without a Noise marker connected to the Nest.<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. |
+| Noise in Corridors | **Intruders**: Adult, Breeder<br>**Direction**: 3<br>Place a Noise marker in the Technical Corridors, if there is not already one there. If there is, remove 1 Malfunction and 1 Fire marker from the pool.<br>**Darkness**: Each Character in a Room with a Technical Corridors Entrance suffers 1 Light Wound. |
+| Panic | **Intruders**: Adult, Breeder<br>**Direction**: 4<br>Each Character with no Action cards on hand discards 2 AMMO. If they do not have enough AMMO, they discard 1 of their Items.<br>**Darkness**: The effect of this card also applies to each Character with Action cards on hand. |
+| Power Surge | **Intruders**: Breeder, Queen<br>**Direction**: 3<br>Flip the Time token to its inactive side. |
+| Sanitary Network Failure | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 2<br>Place a Malfunction marker in each explored Green Room. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| Scent of Blood | **Intruders**: Creeper, Adult<br>**Direction**: 4<br>Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character who has any Undressed Serious Wounds.<br>**Darkness**: Place an Adult Intruder in each Room with a Character who has any Undressed Serious Wounds and is not in Combat. |
+| Short Circuit | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 4<br>Place a Fire marker in each explored Room with a Computer in Sections with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| That's Hot | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1, 3<br>Place a Fire marker in the Backup Power Supply and Power Generator. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
 
 ### 6 Night Stalker Weakness cards
 
-| Title | Effect | Count |
-|-------|--------|-------|
-| Fragile Endoskeleton | Any Classic and Melee Weapon Attack that deals at least 1 Injury deals 1 additional Injury. | 1 |
-| Herding | When your Action causes the Intruder's Retreat, choose where it moves (do not draw an Event card). | 1 |
-| Not Afraid of the Dark | Always resolve the lower value of Surprise Attacks. | 1 |
-| Photosensitivity | Using a Glowstick during a Melee Attack Action deals 2 Injuries instead of 1. | 1 |
-| Vulnerability to Fire | When a Night Stalker suffers an Injury from a Flamethrower or a Thermite Charge, it suffers 1 additional Injury. | 1 |
-| Wary of Shadows | If an Adult Intruder attacks you with a "Perched in the Dark", ignore that card's Darkness effect. | 1 |
+| Title | Effect |
+|-------|--------|
+| Fragile Endoskeleton | Any Classic and Melee Weapon Attack that deals at least 1 Injury deals 1 additional Injury. |
+| Herding | When your Action causes the Intruder's Retreat, choose where it moves (do not draw an Event card). |
+| Not Afraid of the Dark | Always resolve the lower value of Surprise Attacks. |
+| Photosensitivity | Using a Glowstick during a Melee Attack Action deals 2 Injuries instead of 1. |
+| Vulnerability to Fire | When a Night Stalker suffers an Injury from a Flamethrower or a Thermite Charge, it suffers 1 additional Injury. |
+| Wary of Shadows | If an Adult Intruder attacks you with a "Perched in the Dark", ignore that card's Darkness effect. |
 
 ### 6 Computer Actions cards
 
-| Title | Cost | Effect | Count |
-|-------|------|--------|-------|
-| Computer Action A | 1 | Move the Rover.<br>**OR**<br>Peek at a chosen CSS token.<br>**OR**<br>Peek at all Contingencies of any other player in the Section you are in. | 1 |
-| Computer Action B | 1 | Gain 1 Knowledge.<br>**OR**<br>Peek at a chosen CSS token.<br>**OR**<br>Swap 2 chosen Power tokens. | 1 |
-| Computer Action C | 1 | Choose 1 Room. Discard a Fire marker from that Room (if there is one). All the Intruders in that Room Retreat.<br>**OR**<br>Swap 2 chosen Power tokens.<br>**OR**<br>Peek at all Contingencies of any other player in the same Section as you are in. | 1 |
-| Computer Action D | 1 | Open/Close 1 chosen Door.<br>**OR**<br>Peek at a chosen CSS token.<br>**OR**<br>Move the Rover. | 1 |
-| Computer Action E | 1 | Choose 1 Room. Discard a Fire marker from that Room (if there is one). All the Intruders in that Room Retreat.<br>**OR**<br>Swap 2 chosen Power tokens.<br>**OR**<br>Peek at a chosen CSS token. | 1 |
-| Lock-Down |  | When a Player reveals this card, they place a Malfunction marker in their Room. Reshuffle the Computer deck (including the discard pile). | 1 |
+| Title | Cost | Effect |
+|-------|------|--------|
+| Computer Action A | 1 | Move the Rover.<br>**OR**<br>Peek at a chosen CSS token.<br>**OR**<br>Peek at all Contingencies of any other player in the Section you are in. |
+| Computer Action B | 1 | Gain 1 Knowledge.<br>**OR**<br>Peek at a chosen CSS token.<br>**OR**<br>Swap 2 chosen Power tokens. |
+| Computer Action C | 1 | Choose 1 Room. Discard a Fire marker from that Room (if there is one). All the Intruders in that Room Retreat.<br>**OR**<br>Swap 2 chosen Power tokens.<br>**OR**<br>Peek at all Contingencies of any other player in the same Section as you are in. |
+| Computer Action D | 1 | Open/Close 1 chosen Door.<br>**OR**<br>Peek at a chosen CSS token.<br>**OR**<br>Move the Rover. |
+| Computer Action E | 1 | Choose 1 Room. Discard a Fire marker from that Room (if there is one). All the Intruders in that Room Retreat.<br>**OR**<br>Swap 2 chosen Power tokens.<br>**OR**<br>Peek at a chosen CSS token. |
+| Lock-Down |  | When a Player reveals this card, they place a Malfunction marker in their Room. Reshuffle the Computer deck (including the discard pile). |
 
 ### 30 Red (military) Item cards
 
@@ -285,6 +286,7 @@
 ### 22 Rooms Tiles
 
 *Room color distribution (counting printed-on-board Rooms as well): White × 7, Yellow × 6, Green × 4, Red × 3, None × 7.*
+*Number of Rooms with a Computer: Tile "I" x4, Tile "II" x2.*
 
 #### 8 Special Rooms
 
@@ -527,53 +529,53 @@
 
 ### 10 Pilot Action cards
 
-| Character | Title | Effect | Count |
-|-----------|-------|--------|-------|
-| Pilot | Backdoor | **Out of Combat**<br>**Cost**: 0<br>If you are in a Room with a Computer and in a Section with Power, send a Signal.<br>**OR**<br>If you are in a Room with a Computer and in a Section with Power, peek at a chosen CSS token. | 1 |
-| Pilot | Computer Skills | **Out of Combat**<br>**Cost**: 0<br>Open/Close 1 Door in a Corridor connected to the Room you are in.<br>**OR**<br>If you are in a Room with a Computer, use its Room Action without paying its Cost. | 1 |
-| Pilot | Demolition | **Cost**: 0<br>Destroy 1 Closed Door in a Corridor connected to the Room you are in.<br>**OR**<br>Place a Malfunction marker in the Room you are in. | 1 |
-| Pilot | Improvised Weapon | **In Combat**<br>**Cost**: 0<br>If you have a Heavy Item (Object does not count), deal 1 Injury to a chosen Intruder in the Room you are in. Then, get 1 Contamination card. | 1 |
-| Pilot | Interruption | Discard this card to cancel any Action performed by another player in the Room you are in (the other player must still pay the Action Cost).<br>**OR**<br>Cancel an Interruption Action used by another player in your Room. | 1 |
-| Pilot | Repairs | **Out of Combat**<br>**Cost**: 1<br>Discard a Malfunction marker from the Room you are in. | 1 |
-| Pilot | Respite | **Out of Combat**<br>**Cost**: 0<br>If you are in a Section with Power, draw 2 cards. | 1 |
-| Pilot | Rest | **Out of Combat**<br>**Cost**: 0<br>Scan all Contamination cards in your hand and remove all Uninfected cards. If any of the cards were INFECTED, follow the Infection procedure. | 1 |
-| Pilot | Search | **Out of Combat**<br>**Cost**: 0<br>Reduce the Item Counter by 1. Draw 2 Item cards of the same color as the Room you are in. Pick one and discard the other to the bottom of its deck. | 2 |
+| Title | Effect | Count |
+|-------|--------|-------|
+| Backdoor | **Out of Combat**<br>**Cost**: 0<br>If you are in a Room with a Computer and in a Section with Power, send a Signal.<br>**OR**<br>If you are in a Room with a Computer and in a Section with Power, peek at a chosen CSS token. | 1 |
+| Computer Skills | **Out of Combat**<br>**Cost**: 0<br>Open/Close 1 Door in a Corridor connected to the Room you are in.<br>**OR**<br>If you are in a Room with a Computer, use its Room Action without paying its Cost. | 1 |
+| Demolition | **Cost**: 0<br>Destroy 1 Closed Door in a Corridor connected to the Room you are in.<br>**OR**<br>Place a Malfunction marker in the Room you are in. | 1 |
+| Improvised Weapon | **In Combat**<br>**Cost**: 0<br>If you have a Heavy Item (Object does not count), deal 1 Injury to a chosen Intruder in the Room you are in. Then, get 1 Contamination card. | 1 |
+| Interruption | Discard this card to cancel any Action performed by another player in the Room you are in (the other player must still pay the Action Cost).<br>**OR**<br>Cancel an Interruption Action used by another player in your Room. | 1 |
+| Repairs | **Out of Combat**<br>**Cost**: 1<br>Discard a Malfunction marker from the Room you are in. | 1 |
+| Respite | **Out of Combat**<br>**Cost**: 0<br>If you are in a Section with Power, draw 2 cards. | 1 |
+| Rest | **Out of Combat**<br>**Cost**: 0<br>Scan all Contamination cards in your hand and remove all Uninfected cards. If any of the cards were INFECTED, follow the Infection procedure. | 1 |
+| Search | **Out of Combat**<br>**Cost**: 0<br>Reduce the Item Counter by 1. Draw 2 Item cards of the same color as the Room you are in. Pick one and discard the other to the bottom of its deck. | 2 |
 
 ### 6 Nemesis Character Quest Item cards
 
-| Title | Quest | Effect | Count |
-|-------|-------|--------|-------|
-| Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Survivor<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. | 1 |
-| Holo Computer | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Scientist<br>**Out of Combat**<br>**Heavy**<br>You can use the Intranet and Risk Assessment Actions from any Room in the Facility (even with a Malfunction marker or without a computer). | 1 |
-| Motion Scanner | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Scout<br>**Out of Combat**<br>**Heavy**<br>Discard 1 Ation card from your hand to reroll the result of your Noise roll. *Only once per Noise roll.* | 1 |
-| Nemesis Ship Report | **Cost**: 1<br>Discard the Weapon Battery Item in the Alert Room. | **Character**: Pilot<br>**Out of Combat**<br>If you used the Rover to escape, remove the Rover token from the game. Ignore Step 1 of the Victory Check. | 1 |
-| Plasma Torch | **Cost**: 1<br>Activate this item in the Repository. | **Character**: Mechanic<br>**Out of Combat**<br>**Cost**: 1<br>Open/Close 1 Door in a Corridor connected to the Room you are in. Destroyed Doors can be Closed using this Item. | 1 |
-| Six Shooter | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Captain<br>**In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**AMMO: 6/6.**<br>Can only be reloaded with the Reload Action card. When you roll [2 Hits], you deal 1 additional Injury. | 1 |
+| Title | Quest | Effect |
+|-------|-------|--------|
+| Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Survivor<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. |
+| Holo Computer | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Scientist<br>**Out of Combat**<br>**Heavy**<br>You can use the Intranet and Risk Assessment Actions from any Room in the Facility (even with a Malfunction marker or without a computer). |
+| Motion Scanner | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Scout<br>**Out of Combat**<br>**Heavy**<br>Discard 1 Ation card from your hand to reroll the result of your Noise roll. *Only once per Noise roll.* |
+| Nemesis Ship Report | **Cost**: 1<br>Discard the Weapon Battery Item in the Alert Room. | **Character**: Pilot<br>**Out of Combat**<br>If you used the Rover to escape, remove the Rover token from the game. Ignore Step 1 of the Victory Check. |
+| Plasma Torch | **Cost**: 1<br>Activate this item in the Repository. | **Character**: Mechanic<br>**Out of Combat**<br>**Cost**: 1<br>Open/Close 1 Door in a Corridor connected to the Room you are in. Destroyed Doors can be Closed using this Item. |
+| Six Shooter | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Captain<br>**In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**AMMO: 6/6.**<br>Can only be reloaded with the Reload Action card. When you roll [2 Hits], you deal 1 additional Injury. |
 
 ### 20 Nemesis Intruder Event cards
 
-| Title | Effect | Count |
-|-------|--------|-------|
-| Blue Screen | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 3<br>Place a Malfunction marker in the explored Room with a Computer and the lowest Room Number, in a Section with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| Bulkheads Open | **Intruders**: Adult, Breeder<br>**Direction**: 2<br>Open all Doors (except Destroyed Doors).<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. | 1 |
-| Consuming Fire | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 4<br>Set the Item Counter to 0 in each Room with a Fire marker. Place a Fire marker in each Room neighboring a Room with a Fire marker. Fire does not spread through Closed Doors or Technical Corridors. | 1 |
-| Coolant Leak | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>If there is a Malfunction marker in the Cooling System Room, start the Autodestruction sequence. If not, place a Malfunction marker there. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| Damage | **Intruders**: Creeper, Adult<br>**Direction**: 2<br>Place a Malfunction marker in each Room with an Adult Intruder, a Breeder, or a Queen.<br>**Darkness**: Place a Malfunction marker in each Room with a Character. | 1 |
-| Damaging Fire | **Intruders**: Creeper, Adult<br>**Direction**: 3<br>Place a Malfunction marker in each Room with a Fire marker. Place a Fire marker in each Room neighboring a Room with a Fire marker. Fire does not spread through Closed Doors or Technical Corridors. | 1 |
-| Eclosion | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>Each Character with a Larva on their Character board dies (place a Creeper in their Room). Each Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have at least 1 INFECTED card, put a Larva on their Character board. Discard all drawn cards. | 1 |
-| Egg Protection | **Intruders**: Breeder, Queen<br>**Direction**: 4<br>Resolve an Encounter for each Character who is in the Nest or is carrying an Intruder Egg.<br>**Darkness**: Each Character gets 1 Contamination card. | 1 |
-| Hatching | **Intruders**: Adult, Breeder<br>**Direction**: 3<br>Discard 1 Egg from the Laboratory board. Each Character in the Nest with no Action cards on hand is Infested by a Larva. If no Character was Infested, put a Larva token into the Intruder bag.<br>**Darkness**: Each Character outside the Nest with no Action cards on hand is Infested by a Larva. | 1 |
-| Hunt | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>Move each Adult Intruder not in Combat to a neighboring Room with a Character, if possible. If there are several Rooms to choose from, move the Adult Intruder to the Room with the lowest Room Number. | 1 |
-| Hunt | **Intruders**: Breeder, Queen<br>**Direction**: 1<br>Move each Adult Intruder not in Combat to a neighboring Room with a Character, if possible. If there are several Rooms to choose from, move the Adult Intruder to the Room with the lowest Room Number. | 1 |
-| Life Network Failure | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 2<br>Place a Malfunction marker in each explored Green Room. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
-| Lurking | **Intruders**: Creeper, Adult<br>**Direction**: 2<br>Remove from the board all Intruders which are not in a Room with a Character. Put their respective tokens into the Intruder bag.<br>**Darkness**: Each Intruder in Combat attacks. | 1 |
-| Nest | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 1<br>If the Nest is explored, place a Noise marker in each Corridor without a Noise marker connected to the Nest.<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. | 1 |
-| Noise in Corridors | **Intruders**: Adult, Breeder<br>**Direction**: 4<br>Place a Noise marker in the Technical Corridors, if there is not already one there. If there is, remove 1 Malfunction and 1 Fire marker from the pool.<br>**Darkness**: Each Character in a Room with a Technical Corridors Entrance suffers 1 Light Wound. | 1 |
-| Panic | **Intruders**: Adult, Breeder<br>**Direction**: 2<br>Each Character with no Action cards discards 2 AMMO. If they do not have enough AMMO, they discard 1 of their Items.<br>**Darkness**: The effect of this card also applies to each Character with Action cards on hand. | 1 |
-| Power Surge | **Intruders**: Breeder, Queen<br>**Direction**: 2<br>Flip the Time token to its inactive side. | 1 |
-| Regeneration | **Intruders**: Breeder, Queen<br>**Direction**: 4<br>Each Intruder on board heals 2 Injuries.<br>**Darkness**: Place an Adult Intruder in each Room containing a Character with a Slime marker. Then, each Character gets a Slime marker. | 1 |
-| Scent of Prey | **Intruders**: Creeper, Adult<br>**Direction**: 3<br>Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character who has any Undressed Serious Wounds. | 1 |
-| Short Circuit | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 4<br>Place a Fire marker in each explored Room with a Computer in Sections with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). | 1 |
+| Title | Effect |
+|-------|--------|
+| Blue Screen | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 3<br>Place a Malfunction marker in the explored Room with a Computer and the lowest Room Number, in a Section with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| Bulkheads Open | **Intruders**: Adult, Breeder<br>**Direction**: 2<br>Open all Doors (except Destroyed Doors).<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. |
+| Consuming Fire | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 4<br>Set the Item Counter to 0 in each Room with a Fire marker. Place a Fire marker in each Room neighboring a Room with a Fire marker. Fire does not spread through Closed Doors or Technical Corridors. |
+| Coolant Leak | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>If there is a Malfunction marker in the Cooling System Room, start the Autodestruction sequence. If not, place a Malfunction marker there. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| Damage | **Intruders**: Creeper, Adult<br>**Direction**: 2<br>Place a Malfunction marker in each Room with an Adult Intruder, a Breeder, or a Queen.<br>**Darkness**: Place a Malfunction marker in each Room with a Character. |
+| Damaging Fire | **Intruders**: Creeper, Adult<br>**Direction**: 3<br>Place a Malfunction marker in each Room with a Fire marker. Place a Fire marker in each Room neighboring a Room with a Fire marker. Fire does not spread through Closed Doors or Technical Corridors. |
+| Eclosion | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>Each Character with a Larva on their Character board dies (place a Creeper in their Room). Each Character draws 4 cards from their deck and Scans all drawn Contamination cards. If they have at least 1 INFECTED card, put a Larva on their Character board. Discard all drawn cards. |
+| Egg Protection | **Intruders**: Breeder, Queen<br>**Direction**: 4<br>Resolve an Encounter for each Character who is in the Nest or is carrying an Intruder Egg.<br>**Darkness**: Each Character gets 1 Contamination card. |
+| Hatching | **Intruders**: Adult, Breeder<br>**Direction**: 3<br>Discard 1 Egg from the Laboratory board. Each Character in the Nest with no Action cards on hand is Infested by a Larva. If no Character was Infested, put a Larva token into the Intruder bag.<br>**Darkness**: Each Character outside the Nest with no Action cards on hand is Infested by a Larva. |
+| Hunt | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 1<br>Move each Adult Intruder not in Combat to a neighboring Room with a Character, if possible. If there are several Rooms to choose from, move the Adult Intruder to the Room with the lowest Room Number. |
+| Hunt | **Intruders**: Breeder, Queen<br>**Direction**: 1<br>Move each Adult Intruder not in Combat to a neighboring Room with a Character, if possible. If there are several Rooms to choose from, move the Adult Intruder to the Room with the lowest Room Number. |
+| Life Network Failure | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 2<br>Place a Malfunction marker in each explored Green Room. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
+| Lurking | **Intruders**: Creeper, Adult<br>**Direction**: 2<br>Remove from the board all Intruders which are not in a Room with a Character. Put their respective tokens into the Intruder bag.<br>**Darkness**: Each Intruder in Combat attacks. |
+| Nest | **Intruders**: Creeper, Breeder, Queen<br>**Direction**: 1<br>If the Nest is explored, place a Noise marker in each Corridor without a Noise marker connected to the Nest.<br>**Darkness**: Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character. |
+| Noise in Corridors | **Intruders**: Adult, Breeder<br>**Direction**: 4<br>Place a Noise marker in the Technical Corridors, if there is not already one there. If there is, remove 1 Malfunction and 1 Fire marker from the pool.<br>**Darkness**: Each Character in a Room with a Technical Corridors Entrance suffers 1 Light Wound. |
+| Panic | **Intruders**: Adult, Breeder<br>**Direction**: 2<br>Each Character with no Action cards discards 2 AMMO. If they do not have enough AMMO, they discard 1 of their Items.<br>**Darkness**: The effect of this card also applies to each Character with Action cards on hand. |
+| Power Surge | **Intruders**: Breeder, Queen<br>**Direction**: 2<br>Flip the Time token to its inactive side. |
+| Regeneration | **Intruders**: Breeder, Queen<br>**Direction**: 4<br>Each Intruder on board heals 2 Injuries.<br>**Darkness**: Place an Adult Intruder in each Room containing a Character with a Slime marker. Then, each Character gets a Slime marker. |
+| Scent of Prey | **Intruders**: Creeper, Adult<br>**Direction**: 3<br>Place a Noise marker in each Corridor without a Noise marker connected to a Room with a Character who has any Undressed Serious Wounds. |
+| Short Circuit | **Intruders**: Adult, Breeder, Queen<br>**Direction**: 4<br>Place a Fire marker in each explored Room with a Computer in Sections with Power. **REMOVE this Event from the game** and reshuffle the Events deck (including the discard pile). |
 
 ## Solo/Coop Mode Components
 
@@ -581,15 +583,15 @@
 
 ### 10 Solo/Coop Objective cards
 
-| Type | Minimum Player Count | Title | Requirements | Count |
-|------|---------------------|-------|--------------|-------|
-| Solo/Coop | 1+ | Alien Compendium | All Intruder Weaknesses must be discovered. | 1 |
-| Solo/Coop | 1+ | Codebreaker | Send the Signal AND finish the game with no Contingency tokens left in the Neutral Pool. | 1 |
-| Solo/Coop | 1+ | Egg-Sample | Finish the game in a CSS Pod or an Isolation Room with an **Intruder Egg** Object. | 1 |
-| Solo/Coop | 1+ | Insider Knowledge | At least 1 Character must finish the game with a Larva on their Character board.<br>**OR**<br>Finish the game with Knowledge 8 AND Send the Signal. | 1 |
-| Solo/Coop | 1+ | No Stone Unturned | Send the Signal AND all Rooms must be explored. | 1 |
-| Solo/Coop | 1+ | Proving Your Worth | Send the Signal AND the Queen must be killed.<br>**OR**<br>Send the Signal AND the Facility must be destroyed. | 1 |
-| Solo/Coop | 1+ | Unconventional Medicine | Finish the game with an **Intruder Carcass** Object. | 1 |
-| Solo/Coop | 1+ | Wake-Up Call | Activate the Alert Procedure. | 1 |
-| Solo/Coop | 2+ | The Martian | Finish the game with at least 1 of each Crafted Items. | 1 |
-| Solo/Coop | 3+ | Backup | Each Character must finish the game with Knowledge 5 or more. | 1 |
+| Minimum Player Count | Title | Requirements |
+|---------------------|-------|--------------|
+| 1+ | Alien Compendium | All Intruder Weaknesses must be discovered. |
+| 1+ | Codebreaker | Send the Signal AND finish the game with no Contingency tokens left in the Neutral Pool. |
+| 1+ | Egg-Sample | Finish the game in a CSS Pod or an Isolation Room with an **Intruder Egg** Object. |
+| 1+ | Insider Knowledge | At least 1 Character must finish the game with a Larva on their Character board.<br>**OR**<br>Finish the game with Knowledge 8 AND Send the Signal. |
+| 1+ | No Stone Unturned | Send the Signal AND all Rooms must be explored. |
+| 1+ | Proving Your Worth | Send the Signal AND the Queen must be killed.<br>**OR**<br>Send the Signal AND the Facility must be destroyed. |
+| 1+ | Unconventional Medicine | Finish the game with an **Intruder Carcass** Object. |
+| 1+ | Wake-Up Call | Activate the Alert Procedure. |
+| 2+ | The Martian | Finish the game with at least 1 of each Crafted Items. |
+| 3+ | Backup | Each Character must finish the game with Knowledge 5 or more. |
