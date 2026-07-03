@@ -285,10 +285,10 @@
 
 ### 22 Rooms Tiles
 
-*Room color distribution (counting printed-on-board Rooms as well): White × 7, Yellow × 6, Green × 4, Red × 3, None × 7.*
+*Room color distribution (counting printed-on-board Rooms as well): White × 7, Yellow × 6, Green × 4, Red × 3, None × 8.*
 *Number of Rooms with a Computer: Tile "I" x4, Tile "II" x2.*
 
-#### 8 Special Rooms
+#### 9 Special Rooms
 
 *Some of these rooms are printed directly on the board; others are separate tiles placed during setup.*
 
@@ -300,6 +300,7 @@
 | Elevator Room S-02 | No | None | No | As Elevator Room S-01, but applies to the Elevator Room S-02. |
 | Elevator Room S-03 | No | None | No | As Elevator Room S-01, but applies to the Elevator Room S-03. |
 | Emergency Staircases | No | None | No | They are not in any of the Sections. They are always considered to be in Darkness and should be treated as Black Rooms with no Action. |
+| Exit Room | No | None | No | Action [2]: **Escape the Facility**:<br>1) If there is a Rover in the Exit Room – Simply move the Rover with your Character to the Bunker. You managed to Escape safely. Place your Character in the Bunker to mark this. Only 1 Character may occupy the Rover.<br>2) If you have an Enviro-Suit – Perform a Noise roll. If any Intruder shows up in this Room, your attempt at Escaping the Facility fails. If no Intruder appears, you may Escape the Facility and move your Character to the Bunker. Place your Character in the Bunker. You managed to Escape safely.<br>3) Otherwise – You are unable to perform this Action. If you have Escaped, you do not take part in the game any longer. You will find out if you have won during the Victory Check at the end of the game. |
 | Isolation Room | **Yes** | None | No | When your Character is in this Room at the start of a new round, draw 1 additional Action card (up to 6 instead of 5).<br>The Passive feature of this Room does not work if there is a Malfunction token in the Room.<br>Note: This effect takes place even at the start of the game.<br><br>Action [2]: **Lock Yourself In**:<br>You may perform this Action only if the Isolation Room is open – the token on the Time track is on any white slot OR the Alert Procedure token is on the Time track.<br>Perform a Noise roll. If any Intruder appears in this Room, your attempt at locking yourself in the Isolation Room fails.<br>If no Intruder appears, remove your Character miniature from the game. You managed to lock yourself in safely. From now on, you do not take part in the game any longer. Whether your Character survives or dies along with the Facility will be determined at the End of the Game. |
 | Repository | **Yes** | White | No | Action [2]: **Craft Equipment**:<br>Characters in this Room may perform the Craft Item Basic Action. If they do, they may discard one fewer Item card to build an Item.<br>Only one of two Items with a matching Component symbol is needed. |
 
