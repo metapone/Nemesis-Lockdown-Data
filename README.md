@@ -469,8 +469,8 @@
 | Blank | 1 |
 | Creeper | 2 |
 | Adult | 1 |
-| 1-Injury | 1 |
-| 2-Injury | 1 |
+| 1-INJURY | 1 |
+| 2-INJURY | 1 |
 
 ### 2 D6 Advantage dice
 
@@ -479,9 +479,9 @@
 | Blank | 1 |
 | Creeper | 1 |
 | Adult | 1 |
-| 2-Injury | 1 |
-| 1-Injury (Discard) | 1 |
-| 2-Injury (Discard) | 1 |
+| 2-INJURY | 1 |
+| 1-INJURY (Discard) | 1 |
+| 1-INJURY + 1-INJURY (Discard) | 1 |
 
 ## Mars Surface Mode Components
 
