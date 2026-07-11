@@ -141,6 +141,7 @@
 | Leg | The Cost of your Escape Movement Action is 2. | 3 |
 
 ### 20 Night Stalker Attack cards
+*Endurance value distribution: "2" x 3, "3" x 3, "4" x 5, "5" x 5, "Retreat" x 4.*
 
 | Title | Effect | Count |
 |-------|--------|-------|
@@ -165,6 +166,7 @@
 | Piercing the Heart | **Endurance**: 5<br>**Intruders**: Queen<br>The Character suffers 1 Serious Wound and gets 1 Contamination card.<br>**Darkness**: If the Character has at least 2 Serious Wounds, they die. | 1 |
 
 ### 22 Night Stalker Event cards
+*Direction value distribution: "1" x 6, "2" x 6, "3" x 6, "4" x 6.*
 
 | Title | Effect |
 |-------|--------|
@@ -286,6 +288,7 @@
 ### 22 Rooms Tiles
 
 *Room color distribution (counting printed-on-board Rooms as well): White × 7, Yellow × 6, Green × 4, Red × 3, None × 8.*
+
 *Number of Rooms with a Computer: Tile "I" x4, Tile "II" x2.*
 
 #### 9 Special Rooms
