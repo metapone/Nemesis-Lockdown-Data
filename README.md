@@ -41,7 +41,7 @@
 | Pressure Washer | **Cost**: 1<br>Activate this item in the Decon Room. | **Character**: Janitor<br>**Heavy**<br>**USES: 3/3.**<br>Discard a Reagent to fully restore USES in this Item.<br>**OR**<br>Discard 1 USE from this Item to perform a Shoot Action against an Intruder. If you hit, it Retreats instead of suffering Injuries. |
 | Wail | **Cost**: 1<br>Activate this Item in the Nest. Perform a Noise roll afterwards. | **Character**: Lab Rat<br>**Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>Remove a Noise marker from each Corridor in the Section you are in.<br>**OR**<br>Place a Noise marker in each Corridor without a Noise marker in the Section you are in. |
 
-### 27 Contamination cards
+### 27 Contamination cards (7 Infected, 20 Non-Infected)
 
 *Note: Although they share a common back with the Action cards, they should form a separate deck.*
 
