@@ -277,6 +277,18 @@
 | Pistol | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**Craft**: Flash + Screwdriver<br>**AMMO: 3/3.**<br>Unmodified rolls of [2-INJURY] are treated as [1-INJURY]. | 3 |
 | Taser | **One Use Only**<br>**Craft**: Flash + Screwdriver<br>**Cost**: 1<br>Choose 1 Intruder in the Room you are in. It suffers 1 Injury and Retreats.<br>**OR**<br>1 chosen Character in the Room you are in must discard all cards from their hand. | 3 |
 
+#### Craft material distribution:
+
+| Material | Yellow | Green |
+|----------|--------|-------|
+| Cloth | 4 | 3 |
+| Cross | 0 | 8 |
+| Fire | 2 | 8 |
+| Flash | 3 | 0 |
+| Screwdriver | 8 | 0 |
+
+*Red item deck has no items that can be used as craft material.*
+
 ## Boards and Tiles
 
 ### 1 Night Stalker board
