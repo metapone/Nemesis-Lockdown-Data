@@ -23,23 +23,23 @@
 
 ### 4 Character Starting Item cards
 
-| Title | Effect |
-|-------|--------|
-| Nailgun | **Character**: Janitor<br>**Heavy**<br>**Weapon**: Classic<br>**AMMO: 3/3.**<br>Discard a Toolbelt to fully load AMMO in this Weapon.<br>**OR**<br>Discard 1 AMMO from this Weapon to discard a Malfunction marker from the Room you are in. |
-| Probe Arm | **Character**: Xenobiologist<br>**USES: 3/3.**<br>*This Item cannot be traded or discarded.*<br>**If you are in Combat**: Discard 1 USE and place 1 Carcass on this card. Do not place a Carcass if one is already present.<br>**OR**<br>Discard a Toolbelt or a Duct Tape to fully restore USES in this Item. |
-| Smart Gun | **Character**: Hacker<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 3/3.**<br>Rolls of [Blank] are treated as [1-INJURY]. |
-| SMG | **Character**: Sentry<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you perform a Shoot Action with this Weapon, discard 1 or 2 AMMO. For each discarded AMMO, roll the Combat die. Check Injuries after each successful hit. |
+| Character | Title | Effect |
+|-----------|-------|--------|
+| Hacker | Smart Gun | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 3/3.**<br>Rolls of [BLANK] are treated as [1-INJURY]. |
+| Sentry | SMG | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you perform a Shoot Action with this Weapon, discard 1 or 2 AMMO. For each discarded AMMO, roll the Combat die. Check Injuries after each successful hit. |
+| Janitor | Nailgun | **Heavy**<br>**Weapon**: Classic<br>**AMMO: 3/3.**<br>Discard a Toolbelt to fully load AMMO in this Weapon.<br>**OR**<br>Discard 1 AMMO from this Weapon to discard a Malfunction marker from the Room you are in. |
+| Xenobiologist | Probe Arm | **USES: 3/3.**<br>*This Item cannot be traded or discarded.*<br>**If you are in Combat**: Discard 1 USE and place 1 Carcass on this card. Do not place a Carcass if one is already present.<br>**OR**<br>Discard a Toolbelt or a Duct Tape to fully restore USES in this Item. |
 
 ### 6 Character Quest Item cards
 
-| Title | Quest | Effect |
-|-------|-------|--------|
-| Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Survivor<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. |
-| Battle Suit | **Cost**: 1<br>Activate this Item in the Cargo Sending System A. | **Character**: Sentry<br>**Heavy**<br>**Enviro-Suit**<br>Your Character ignores rules for Slime and Fire Damage. You can Escape the Facility without using the Rover. **In Darkness**: Use an Advantage die when Shooting and ignore all Darkness effects for you. |
-| Cheat Codes | **Cost**: 1<br>Activate this Item in the Archive. | **Character**: Hacker<br>**Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>*If you are in a Room with a Computer, choose one:*<br>Initiate the Autodestruction sequence.<br>**OR**<br>Close/Open up to 3 Doors in any Corridors on the board.<br>**OR**<br>Peek at up to 2 CSS tokens. You may swap them with each other. |
-| Overmind | Activate this Item when you pass and have Knowledge 8. | **Character**: Xenobiologist<br>**Out of Combat**<br>**Cost**: 1<br>Choose any Intruder on the board (even in a Room with another Character). Move the chosen Intruder through a chosen Corridor. Then, flip this card over to the Quest side. |
-| Pressure Washer | **Cost**: 1<br>Activate this item in the Decon Room. | **Character**: Janitor<br>**Heavy**<br>**USES: 3/3.**<br>Discard a Reagent to fully restore USES in this Item.<br>**OR**<br>Discard 1 USE from this Item to perform a Shoot Action against an Intruder. If you hit, it Retreats instead of suffering Injuries. |
-| Wail | **Cost**: 1<br>Activate this Item in the Nest. Perform a Noise roll afterwards. | **Character**: Lab Rat<br>**Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>Remove a Noise marker from each Corridor in the Section you are in.<br>**OR**<br>Place a Noise marker in each Corridor without a Noise marker in the Section you are in. |
+| Character | Title | Quest | Effect |
+|-----------|-------|-------|--------|
+| Hacker | Cheat Codes | **Cost**: 1<br>Activate this Item in the Archive. | **Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>*If you are in a Room with a Computer, choose one:*<br>Initiate the Autodestruction sequence.<br>**OR**<br>Close/Open up to 3 Doors in any Corridors on the board.<br>**OR**<br>Peek at up to 2 CSS tokens. You may swap them with each other. |
+| Janitor | Pressure Washer | **Cost**: 1<br>Activate this Item in the Decon Room. | **Heavy**<br>**USES: 3/3.**<br>Discard a Reagent to fully restore USES in this Item.<br>**OR**<br>Discard 1 USE from this Item to perform a Shoot Action against an Intruder. If you hit, it Retreats instead of suffering Injuries. |
+| Lab Rat | Wail | **Cost**: 1<br>Activate this Item in the Nest. Perform a Noise roll afterwards. | **Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>Remove a Noise marker from each Corridor in the Section you are in.<br>**OR**<br>Place a Noise marker in each Corridor without a Noise marker in the Section you are in. |
+| Sentry | Battle Suit | **Cost**: 1<br>Activate this Item in the Cargo Sending System A. | **Heavy**<br>**Enviro-Suit**<br>Your Character ignores rules for Slime and Fire Damage. You can Escape the Facility without using the Rover. **In Darkness**: Use an Advantage die when Shooting and ignore all Darkness effects for you. |
+| Survivor | Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. |
+| Xenobiologist | Overmind | Activate this Item when you pass and have Knowledge 8. | **Out of Combat**<br>**Cost**: 1<br>Choose any Intruder on the board (even in a Room with another Character). Move the chosen Intruder through a chosen Corridor. Then, flip this card over to the Quest side. |
 
 ### 27 Contamination cards (7 Infected, 20 Non-Infected)
 
@@ -213,7 +213,7 @@
 | Computer Action C | 1 | Choose 1 Room. Discard a Fire marker from that Room (if there is one). All the Intruders in that Room Retreat.<br>**OR**<br>Swap 2 chosen Power tokens.<br>**OR**<br>Peek at all Contingencies of any other player in the same Section as you are in. |
 | Computer Action D | 1 | Open/Close 1 chosen Door.<br>**OR**<br>Peek at a chosen CSS token.<br>**OR**<br>Move the Rover. |
 | Computer Action E | 1 | Choose 1 Room. Discard a Fire marker from that Room (if there is one). All the Intruders in that Room Retreat.<br>**OR**<br>Swap 2 chosen Power tokens.<br>**OR**<br>Peek at a chosen CSS token. |
-| Lock-Down |  | When a Player reveals this card, they place a Malfunction marker in their Room. Reshuffle the Computer deck (including the discard pile). |
+| Lock-Down | — | When a Player reveals this card, they place a Malfunction marker in their Room. Reshuffle the Computer deck (including the discard pile). |
 
 ### 30 Red (military) Item cards
 
@@ -230,9 +230,9 @@
 | Main Gate Key | **Out of Combat**<br>**One Use Only**<br>**Cost**: 1<br>If you are in a Room with a Computer, open the Main Gate. | 1 |
 | Medical Stapler | **One Use Only**<br>**Cost**: 1<br>Dress 1 Serious Wound.<br>**OR**<br>Heal all Light Wounds. | 1 |
 | Prototype: Pistol | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 1/3.**<br>You can reroll once each Combat roll you make with this Weapon. | 1 |
-| Prototype: Rifle | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 1/6.**<br>Every time you roll [2-INJURY], you can discard 1 additional Ammo to deal 1 additional Injury. | 1 |
-| Prototype: Shotgun | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 1/2.**<br>You always deal at least 1 Injury, except on a [Blank]. If you roll [1-INJURY] or [2-INJURY], you deal 1 additional Injury. | 1 |
-| Scattergun | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**Cost**: 1<br>**AMMO: 1/1.**<br>Discard 1 Ammo from this Weapon. Escape from the Room you are in without triggering an Intruder Attack. | 1 |
+| Prototype: Rifle | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 1/6.**<br>Every time you roll [2-INJURY], you can discard 1 additional AMMO to deal 1 additional Injury. | 1 |
+| Prototype: Shotgun | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 1/2.**<br>You always deal at least 1 Injury, except on a [BLANK]. If you roll [1-INJURY] or [2-INJURY], you deal 1 additional Injury. | 1 |
+| Scattergun | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**Cost**: 1<br>**AMMO: 1/1.**<br>Discard 1 AMMO from this Weapon. Escape from the Room you are in without triggering an Intruder Attack. | 1 |
 | Thermite Charge | **One Use Only**<br>**Cost**: 1<br>Choose 1 Room (the one you are in or neighboring). Place a Malfunction and a Fire marker in this Room. All Characters and Intruders in the chosen Room (including you) suffer 1 Injury/Light Wound. | 2 |
 | Weapon Battery | **Flash**<br>**One Use Only**<br>**Cost**: 1<br>Add 3 AMMO to your Energy Weapon.<br>**OR**<br>If you are in a Room with a Computer and in a Section without Power, use a Computer Action. | 8 |
 
@@ -272,22 +272,20 @@
 | Title | Effect | Count |
 |-------|--------|-------|
 | Enviro-Suit | **Heavy**<br>**Enviro-Suit**<br>**Craft**: Cloth + Screwdriver<br>Your Character ignores rules for Slime and Fire Damage. You can Escape the Facility without using the Rover. | 3 |
-| Flame-Thrower | **In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**Craft**: Fire + Screwdriver<br>**AMMO: 4/4.**<br>You always deal at least 1 Injury, except on a [Blank]. If the Combat roll result is [2-INJURY], place a Fire marker in the Room you are in. | 3 |
+| Flame-Thrower | **In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**Craft**: Fire + Screwdriver<br>**AMMO: 4/4.**<br>You always deal at least 1 Injury, except on a [BLANK]. If the Combat roll result is [2-INJURY], place a Fire marker in the Room you are in. | 3 |
 | Neutralizer | **Out of Combat**<br>**One Use Only**<br>**Craft**: Fire + Cross<br>**Cost**: 1<br>Scan all cards in your Action deck, hand and discard pile. Remove all INFECTED cards (and Larva if you had one). Then, shuffle all your Action cards (including those in your hand). After that, you must pass. | 3 |
 | Pistol | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**Craft**: Flash + Screwdriver<br>**AMMO: 3/3.**<br>Unmodified rolls of [2-INJURY] are treated as [1-INJURY]. | 3 |
 | Taser | **One Use Only**<br>**Craft**: Flash + Screwdriver<br>**Cost**: 1<br>Choose 1 Intruder in the Room you are in. It suffers 1 Injury and Retreats.<br>**OR**<br>1 chosen Character in the Room you are in must discard all cards from their hand. | 3 |
 
-#### Craft material distribution:
+#### Craft material distribution
 
-| Material | Yellow | Green |
-|----------|--------|-------|
-| Cloth | 4 | 3 |
-| Cross | 0 | 8 |
-| Fire | 2 | 8 |
-| Flash | 3 | 0 |
-| Screwdriver | 8 | 0 |
-
-*Red item deck has no items that can be used as craft material.*
+| Material | Red |Yellow | Green |
+|----------|-----|--------|-------|
+| Cloth | 0 | 4 | 3 |
+| Cross | 0 | 0 | 8 |
+| Fire | 0 | 2 | 8 |
+| Flash | 8 | 3 | 0 |
+| Screwdriver | 0 | 8 | 0 |
 
 ## Boards and Tiles
 
@@ -415,7 +413,7 @@
 
 | Type | Normal | Darkness | Count |
 |------|--------|----------|-------|
-| Blank |  |  | 1 |
+| Blank | — | — | 1 |
 | Larva | 0 | 1 | 4 |
 | Larva | 1 | 2 | 4 |
 | Creeper | 1 | 2 | 3 |
@@ -436,7 +434,7 @@
 | No Launch | 3 |
 | Launch A | 1 |
 | Launch B | 1 |
-| Launch B | 1 |
+| Launch C | 1 |
 | Launch ALL | 1 |
 
 ### 10 Small Injury counters (1–8)
@@ -507,9 +505,9 @@
 | Title | Effect | Count |
 |-------|--------|-------|
 | Hostile Environment | Your Character undresses all Serious Wounds.<br>**Enviro-Suit**: Your Character suffers 1 Light Wound. | 1 |
-| Micrometeorites | Each Character on the Mars Surface suffers 1 Serious Wound and discards a chosen Item.<br>**Enviro-Suit**: Your Character suffers 1 Light Wound and discards an Enviro-Suit Item. | 2 | 
+| Micrometeorites | Each Character on the Mars Surface suffers 1 Serious Wound and discards a chosen Item.<br>**Enviro-Suit**: Your Character suffers 1 Light Wound and discards an Enviro-Suit Item. | 2 |
 | Radioactive Dust | Your Character gets 1 Contamination card and a Slime marker.<br>**Enviro-Suit**: Your Character gets 1 Contamination card. | 2 |
-| Solar Flare | Each Character on the Mars Surface discards all AMMO from their Energy Weapon.<br>**Enviro-Suit**: Your Character discard 1 AMMO from one of their Energy Weapon. | 1 |
+| Solar Flare | Each Character on the Mars Surface discards all AMMO from their Energy Weapon.<br>**Enviro-Suit**: Your Character discards 1 AMMO from one of their Energy Weapon. | 1 |
 | Sudden Temperature Drop | Resolve the Danger effect.<br>**Enviro-Suit**: Place a Noise marker in each Neighboring Corridor and Area, which does not have a Noise marker. | 2 |
 
 ### 1 D12 Surface die
@@ -559,14 +557,14 @@
 
 ### 6 Nemesis Character Quest Item cards
 
-| Title | Quest | Effect |
-|-------|-------|--------|
-| Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Survivor<br>**In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. |
-| Holo Computer | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Scientist<br>**Out of Combat**<br>**Heavy**<br>You can use the Intranet and Risk Assessment Actions from any Room in the Facility (even with a Malfunction marker or without a computer). |
-| Motion Scanner | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Scout<br>**Out of Combat**<br>**Heavy**<br>Discard 1 Ation card from your hand to reroll the result of your Noise roll. *Only once per Noise roll.* |
-| Nemesis Ship Report | **Cost**: 1<br>Discard the Weapon Battery Item in the Alert Room. | **Character**: Pilot<br>**Out of Combat**<br>If you used the Rover to escape, remove the Rover token from the game. Ignore Step 1 of the Victory Check. |
-| Plasma Torch | **Cost**: 1<br>Activate this item in the Repository. | **Character**: Mechanic<br>**Out of Combat**<br>**Cost**: 1<br>Open/Close 1 Door in a Corridor connected to the Room you are in. Destroyed Doors can be Closed using this Item. |
-| Six Shooter | **Cost**: 1<br>Activate this Item in the Repository. | **Character**: Captain<br>**In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**AMMO: 6/6.**<br>Can only be reloaded with the Reload Action card. When you roll [2-INJURY], you deal 1 additional Injury. |
+| Character | Title | Quest | Effect |
+|-----------|-------|-------|--------|
+| Captain | Six Shooter | **Cost**: 1<br>Activate this Item in the Repository. | **In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**AMMO: 6/6.**<br>Can only be reloaded with the Reload Action card. When you roll [2-INJURY], you deal 1 additional Injury. |
+| Mechanic | Plasma Torch | **Cost**: 1<br>Activate this Item in the Repository. | **Out of Combat**<br>**Cost**: 1<br>Open/Close 1 Door in a Corridor connected to the Room you are in. Destroyed Doors can be Closed using this Item. |
+| Pilot | Nemesis Ship Report | **Cost**: 1<br>Discard the Weapon Battery Item in the Alert Room. | **Out of Combat**<br>If you used the Rover to escape, remove the Rover token from the game. Ignore Step 1 of the Victory Check. |
+| Scientist | Holo Computer | **Cost**: 1<br>Activate this Item in the Repository. | **Out of Combat**<br>**Heavy**<br>You can use the Intranet and Risk Assessment Actions from any Room in the Facility (even with a Malfunction marker or without a Computer). |
+| Scout | Motion Scanner | **Cost**: 1<br>Activate this Item in the Repository. | **Out of Combat**<br>**Heavy**<br>Discard 1 Action card from your hand to reroll the result of your Noise roll. *Only once per Noise roll.* |
+| Survivor | Assault Rifle | **Cost**: 1<br>Activate this Item in the Repository. | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**AMMO: 5/5.**<br>Each time you deal at least 1 Injury, deal 1 additional Injury. |
 
 ### 20 Nemesis Intruder Event cards
 
@@ -599,8 +597,8 @@
 
 ### 10 Solo/Coop Objective cards
 
-| Minimum Player Count | Title | Requirements |
-|---------------------|-------|--------------|
+| Min Players | Title | Requirements |
+|-------------|-------|--------------|
 | 1+ | Alien Compendium | All Intruder Weaknesses must be discovered. |
 | 1+ | Codebreaker | Send the Signal AND finish the game with no Contingency tokens left in the Neutral Pool. |
 | 1+ | Egg-Sample | Finish the game in a CSS Pod or an Isolation Room with an **Intruder Egg** Object. |
