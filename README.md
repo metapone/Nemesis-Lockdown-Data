@@ -1,5 +1,7 @@
 # Nemesis: Lockdown — Game Contents
 
+*Note: See [Expansion.md](Expansion.md) for expansion contents*
+
 ## Miniatures
 
 | Item | Count |
