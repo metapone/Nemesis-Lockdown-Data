@@ -9,7 +9,7 @@
 | Characters (Survivor, Hacker, Xenobiologist, Sentry, Janitor, Lab Rat) | 6 |
 | Larvae | 6 |
 | Creepers | 3 |
-| Adults | 8 |
+| Adults (4 poses) | 8 |
 | Breeders | 2 |
 | Queen | 1 |
 
