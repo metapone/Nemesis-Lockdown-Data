@@ -274,7 +274,7 @@
 | Title | Effect | Count |
 |-------|--------|-------|
 | Enviro-Suit | **Heavy**<br>**Enviro-Suit**<br>**Craft**: Cloth + Screwdriver<br>Your Character ignores rules for Slime and Fire Damage. You can Escape the Facility without using the Rover. | 3 |
-| Flame-Thrower | **In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**Craft**: Fire + Screwdriver<br>**AMMO: 4/4.**<br>You always deal at least 1 Injury, except on a [BLANK]. If the Combat roll result is [2-INJURY], place a Fire marker in the Room you are in. | 3 |
+| Flamethrower | **In Combat**<br>**Heavy**<br>**Weapon**: Classic<br>**Craft**: Fire + Screwdriver<br>**AMMO: 4/4.**<br>You always deal at least 1 Injury, except on a [BLANK]. If the Combat roll result is [2-INJURY], place a Fire marker in the Room you are in. | 3 |
 | Neutralizer | **Out of Combat**<br>**One Use Only**<br>**Craft**: Fire + Cross<br>**Cost**: 1<br>Scan all cards in your Action deck, hand and discard pile. Remove all INFECTED cards (and Larva if you had one). Then, shuffle all your Action cards (including those in your hand). After that, you must pass. | 3 |
 | Pistol | **In Combat**<br>**Heavy**<br>**Weapon**: Energy<br>**Craft**: Flash + Screwdriver<br>**AMMO: 3/3.**<br>Unmodified rolls of [2-INJURY] are treated as [1-INJURY]. | 3 |
 | Taser | **One Use Only**<br>**Craft**: Flash + Screwdriver<br>**Cost**: 1<br>Choose 1 Intruder in the Room you are in. It suffers 1 Injury and Retreats.<br>**OR**<br>1 chosen Character in the Room you are in must discard all cards from their hand. | 3 |
@@ -283,11 +283,11 @@
 
 | Material | Red |Yellow | Green |
 |----------|-----|--------|-------|
-| Cloth | 0 | 4 | 3 |
-| Cross | 0 | 0 | 8 |
-| Fire | 0 | 2 | 8 |
-| Flash | 8 | 3 | 0 |
-| Screwdriver | 0 | 8 | 0 |
+| Cloth | - | 4 | 3 |
+| Cross | - | - | 8 |
+| Fire | - | 2 | 8 |
+| Flash | 8 | 3 | - |
+| Screwdriver | - | 8 | - |
 
 ## Boards and Tiles
 
